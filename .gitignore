@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+
+# Compiled output
+dist
+*.js
+
+# Dependency directories
+node_modules
+
+# Environment variables
+.env
+
+# IDE files
+.vscode
+.idea
+
+# Build files
+build
+*.tsbuildinfo
+
+# Tests
+coverage
+.nyc_output
